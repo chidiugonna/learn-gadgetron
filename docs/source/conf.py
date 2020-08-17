@@ -64,9 +64,9 @@ html_static_path = ['_static']
 
 
 # recapitulate markdown parser - to see if it fizes sphinx_markdown_tables
-source_parsers = {
-    '.md': 'recommonmark.parser.CommonMarkParser'
-}
+#source_parsers = {
+#    '.md': 'recommonmark.parser.CommonMarkParser'
+#}
 
 # added to allow management of markdown and restructured text
 source_suffix = {
