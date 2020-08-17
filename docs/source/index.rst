@@ -11,6 +11,9 @@ gadgetron that was conducted online.
    :caption: Contents:
 
    README_main.md
+   README_learn.md
+   README_helloworld.md
+   README_tutorial2020.md
    singularity.rst
    references.rst
    codeExamples.md

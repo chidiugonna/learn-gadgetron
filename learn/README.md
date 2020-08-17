@@ -1,5 +1,5 @@
 # Learn gadgetron folders
 
 scripts
-hellowWorld
+helloWorld
 tutorial2020
