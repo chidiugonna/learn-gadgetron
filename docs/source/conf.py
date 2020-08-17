@@ -21,6 +21,9 @@ project = 'learn-gadgetron'
 copyright = '2020, Chidi Ugonna'
 author = 'Chidi Ugonna'
 
+# add master doc
+master_doc = 'index'
+
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
 
