@@ -14,6 +14,7 @@ gadgetron that was conducted online.
    README_learn.md
    README_helloworld.md
    README_tutorial2020.md
+   README_Lesson2.md
    singularity.rst
    references.rst
    codeExamples.md
