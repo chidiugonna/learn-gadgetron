@@ -171,7 +171,6 @@ wget https://support.hdfgroup.org/ftp/HDF5/releases/HDF-JAVA/hdfview-3.1.1/src/h
 tar xvf hdfview-3.1.1.tar.gz
 rm hdfview-3.1.1.tar.gz
 cd /opt/hdfview-3.1.1
-
 export HDFLIBS=/opt/hdfinstall/hdf5-1.10.6/hdf5
 export HDF5LIBS=/opt/hdfinstall/hdf5-1.10.6/hdf5
 export PATH=$PATH:/opt/ant/apache-ant-1.9.15/bin
@@ -182,4 +181,11 @@ ant compile jar
 
 echo java -jar /opt/hdfview-3.1.1/build/jar/HDFView.jar >> /opt/bin/hdfview
 chmod +x /opt/bin/hdfview
+
+cd /opt
+git clone https://github.com/gadgetron/GadgetronOnlineClass.git
+
+echo cd /opt/GadgetronOnlineClass/Courses/Day1/Lecture2/visualization/ >> /opt/bin/visualize
+echo python3 visualization.py >> /opt/bin/visualize
+chmod +x /opt/bin/visualize
 

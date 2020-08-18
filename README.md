@@ -1,5 +1,6 @@
 # Repository to support learning of gadgetron
 
+The documentation for this repository is available on [read-the-docs](https://learn-gadgetron.readthedocs.io)
 
 **Gadgetron** is an open source medical image reconstruction framework maintained by Michael Hansen and developed under a grant from the [NIH](https://grantome.com/grant/NIH/ZIA-HL006214-01).
 

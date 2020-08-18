@@ -18,22 +18,3 @@ gadgetron that was conducted online.
    references.rst
    codeExamples.md
 
-Another simple header
-=====================
-
-.. code-block:: python
-
-   print 'hello'
-   >>> hello
-
-
-Guide
-^^^^^
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
